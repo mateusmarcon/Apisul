@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Apisul\bin\Debug\net48\Apisul.exe.config
+C:\Users\mateu\source\repos\Apisul\bin\Debug\net48\Apisul.exe
+C:\Users\mateu\source\repos\Apisul\bin\Debug\net48\Apisul.pdb
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.exe
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.pdb
+C:\Users\mateu\source\repos\Apisul\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.csproj.CopyComplete
+C:\Users\mateu\source\repos\Apisul\obj\Debug\net48\Apisul.csprojAssemblyReference.cache
